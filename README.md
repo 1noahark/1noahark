@@ -6,16 +6,16 @@
 
 <h1>Languages and Skills: </h1>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" style="height: 10vh">
-<img src="https://63798421/205072852-73138774-edb8-418d-92c8-d4e3c173999f.png">
-<img src="https://63798421/205072891-e1513ee1-839e-4ff1-a33f-49119c8966db.png">
-<img src="https://63798421/205073008-6e5f100c-06e6-4f67-a2d1-370ba48820c1.png">
-<img src="https://63798421/205073082-d9ff80fd-d6df-412f-a2d0-58ab714fa525.png">
-<img src="https://63798421/205073194-42186903-6faa-46ae-aabf-2937be9f5fc0.png">
-<img src="https://63798421/205073323-897457b0-d2c9-44ef-a487-c4da8adae0f9.png">
-<img src="https://63798421/205073532-8a2981f1-0a7e-496c-97de-7673cd1e3032.png">
-<img src="https://63798421/205073594-dfd39f65-a033-41c4-8ffe-36cf82c7cec0.png">
-<img src="https://63798421/205074365-d7209967-27ec-425a-ba82-504fc40098a7.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" style="height: 8vh">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" style="height: 8vh">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" style="height: 8vh">
+<img src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" style="height: 8vh">
+<img src="https://www.thesoftwarereport.com/wp-content/uploads/2022/08/MongoDB.png" style="height: 8vh">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" style="height: 8vh">
+<img src="https://cdn.shopify.com/s/files/1/0057/5668/2355/files/Postman-logo-orange-2021_1155x.png?v=1637252529" style="height: 8vh">
+<img src="https://uploads-ssl.webflow.com/613513981b0efaf850830620/630278a964d1f18269a94cd2_figma.svg" style="height: 8vh">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" style="height: 8vh">
+<img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" style="height: 8vh">
 
 
 
