@@ -6,7 +6,7 @@
 
 <h1>Languages and Skills: </h1>
 
-![image](https://user-images.githubusercontent.com/63798421/205071955-11d35548-6a20-4034-a480-cee4d45910c1.png)
+<img src="https://63798421/205071955-11d35548-6a20-4034-a480-cee4d45910c1.png)
 ![image](https://user-images.githubusercontent.com/63798421/205072852-73138774-edb8-418d-92c8-d4e3c173999f.png)
 ![image](https://user-images.githubusercontent.com/63798421/205072891-e1513ee1-839e-4ff1-a33f-49119c8966db.png)
 ![image](https://user-images.githubusercontent.com/63798421/205073008-6e5f100c-06e6-4f67-a2d1-370ba48820c1.png)
