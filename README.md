@@ -6,7 +6,7 @@
 
 <h1>Languages and Skills: </h1>
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: space-between;">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" style="height: 5vh">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" style="height: 5vh">
