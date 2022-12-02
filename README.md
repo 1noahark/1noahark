@@ -10,7 +10,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" style="height: 5vh">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" style="height: 5vh">
-<img src="https://www.ankitweblogic.com/javascript/js_img/javascript.png" style="height: 4.5vh">
+<img src="https://www.chapter247.com/wp-content/uploads/2019/11/110-1106837_proj4js-by-proj4js-javascript-icon-logo-png-clipart.png" style="height: 5vh">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" style="height: 5vh">
 <img src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" style="height: 5vh">
 <img src="https://www.thesoftwarereport.com/wp-content/uploads/2022/08/MongoDB.png" style="height: 5vh">
