@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tech related stuff
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on cool tech projects
-- 📫 How to reach me @noaheyobark@gmail.com
+- 📫 How to reach me noaheyobark@gmail.com or @noahark on telegram
 
 <h1>Languages and Skills: </h1>
 
