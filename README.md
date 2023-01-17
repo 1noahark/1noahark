@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **web apps**
 
-- 👀 I’m looking to collaborate on **on cool tech projects**
+- 👀 I’m looking to collaborate on **cool tech projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/1noahark](https://github.com/1noahark)
 
